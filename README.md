@@ -21,7 +21,7 @@ Para la elaboración de este portafolio se utilizan las siguientes tecnologías:
 2. Abre la carpeta del proyecto en Visual Studio Code.
 3. Abre el archivo `index.html` en tu navegador.
 
-También puedes visitar https://github.com/zvalencia para consultar mis proyectos y conocer más sobre esta plataforma.
+Puedes consultar la plataforma [GitHub](https://github.com/) para conocer más sobre el desarrollo de software.
 
 ## Estructura de carpetas
 
