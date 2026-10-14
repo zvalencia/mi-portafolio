@@ -11,3 +11,7 @@ node_modules/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
+
+# Archivos locales y copias antiguas
+config.local.json
+respaldos/index-copia-vieja.html
