@@ -54,7 +54,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 **Criterios de aceptación:**
 
 <!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces -->
-- [ ] TODO
+- [ ] Dado que abro el portafolio, cuando llego al final de la página, entonces veo un pie de página con el año 2026 y el nombre del aprendiz.
+- [ ] Dado que estoy en el pie de página, cuando reviso los enlaces sociales, entonces encuentro enlaces a las redes del aprendiz.
+- [ ] Dado que hago clic en un enlace social, cuando se abre el destino, entonces puedo acceder al perfil correspondiente.
 
 **Issue:** #
 
@@ -70,7 +72,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 <!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿el enlace abre en una pestaña nueva? ¿Qué texto muestra? -->
-- [ ] TODO
+- [ ] Dado que veo las tarjetas de proyectos, cuando reviso cada tarjeta, entonces encuentro un enlace llamado "Ver código".
+- [ ] Dado que hago clic en "Ver código", cuando se abre el enlace, entonces accedo al repositorio de GitHub correspondiente al proyecto.
+- [ ] Dado que hago clic en "Ver código", cuando se abre el repositorio, entonces se abre en una pestaña nueva del navegador.
 
 **Issue:** #
 
@@ -86,7 +90,9 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 
 <!-- TODO: escribe mínimo 3 criterios con el formato Dado / cuando / entonces.
      Pista: ¿qué pasa con las 3 tarjetas en una pantalla de menos de 600 px? -->
-- [ ] TODO
+- [ ] Dado que abro el portafolio en una pantalla de menos de 600 px, cuando veo los proyectos, entonces las tarjetas se muestran en una sola columna.
+- [ ] Dado que navego por el portafolio desde el celular, cuando leo el contenido, entonces puedo hacerlo sin ampliar la página con zoom.
+- [ ] Dado que abro el portafolio en una pantalla pequeña, cuando recorro la página horizontalmente, entonces el contenido no provoca desplazamiento horizontal.
 
 **Issue:** #
 
