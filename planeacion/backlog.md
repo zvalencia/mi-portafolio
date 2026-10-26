@@ -106,12 +106,14 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
      Ideas: botón "volver arriba", modo oscuro, descargar hoja de vida,
      formulario de contacto, foto de perfil, sección de estudios. -->
 
-**Historia:** TODO
+**Historia:** Como reclutador, quiero consultar la formación académica del aprendiz, para conocer sus estudios y preparación.
 
-**Etiquetas:** TODO · **Estimación:** TODO
+**Etiquetas:** historia, frontend · **Estimación:** S
 
 **Criterios de aceptación:**
 
-- [ ] TODO
+- [ ] Dado que abro el portafolio, cuando busco la sección de formación académica, entonces encuentro un apartado dedicado a los estudios del aprendiz.
+- [ ] Dado que estoy en la sección de formación académica, cuando reviso su contenido, entonces puedo identificar el nombre de la formación y su estado o periodo.
+- [ ] Dado que navego desde el menú principal, cuando selecciono el enlace de formación académica, entonces la página me lleva a esa sección.
 
 **Issue:** #
