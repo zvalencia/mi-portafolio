@@ -25,7 +25,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la parte de arriba, cuando hago clic en "Proyectos", entonces la página baja hasta la sección de proyectos.
 - [ ] Dado que hice scroll hasta el final, cuando miro la parte superior de la pantalla, entonces el menú sigue visible.
 
-**Issue:** #
+**Issue:** #1
 
 ---
 
@@ -41,7 +41,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la sección "Habilidades", cuando la leo, entonces las habilidades están agrupadas en "Frontend" y "Herramientas".
 - [ ] Dado que estoy en el menú, cuando hago clic en "Habilidades", entonces la página baja hasta esa sección.
 
-**Issue:** #
+**Issue:** #2
 
 ---
 
@@ -58,7 +58,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en el pie de página, cuando reviso los enlaces sociales, entonces encuentro enlaces a las redes del aprendiz.
 - [ ] Dado que hago clic en un enlace social, cuando se abre el destino, entonces puedo acceder al perfil correspondiente.
 
-**Issue:** #
+**Issue:** #3
 
 ---
 
@@ -76,7 +76,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que hago clic en "Ver código", cuando se abre el enlace, entonces accedo al repositorio de GitHub correspondiente al proyecto.
 - [ ] Dado que hago clic en "Ver código", cuando se abre el repositorio, entonces se abre en una pestaña nueva del navegador.
 
-**Issue:** #
+**Issue:** #4
 
 ---
 
@@ -94,7 +94,7 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que navego por el portafolio desde el celular, cuando leo el contenido, entonces puedo hacerlo sin ampliar la página con zoom.
 - [ ] Dado que abro el portafolio en una pantalla pequeña, cuando recorro la página horizontalmente, entonces el contenido no provoca desplazamiento horizontal.
 
-**Issue:** #
+**Issue:** #5
 
 ---
 
