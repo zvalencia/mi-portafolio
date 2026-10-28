@@ -116,4 +116,4 @@ Cuando crees el issue en GitHub, escribe su número en la línea **Issue:**
 - [ ] Dado que estoy en la sección de formación académica, cuando reviso su contenido, entonces puedo identificar el nombre de la formación y su estado o periodo.
 - [ ] Dado que navego desde el menú principal, cuando selecciono el enlace de formación académica, entonces la página me lleva a esa sección.
 
-**Issue:** #6
+**Issue:** #7
