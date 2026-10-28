@@ -33,3 +33,24 @@ a { color: var(--acento); }
 .etiquetas li { font-size: .8rem; padding: .15rem .6rem; border-radius: 999px; background: rgba(240, 80, 50, .15); color: var(--acento); }
 .contacto { list-style: none; }
 .footer { text-align: center; padding: 2rem; color: var(--suave); font-size: .9rem; }
+.menu {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  background: #ffffff;
+  border-bottom: 1px solid #d0d7de;
+  padding: .8rem 1rem;
+}
+
+.menu a {
+  color: #24292f;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
