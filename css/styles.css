@@ -54,3 +54,9 @@ a { color: var(--acento); }
 html {
   scroll-behavior: smooth;
 }
+
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
