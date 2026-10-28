@@ -59,4 +59,13 @@ html {
   .grid {
     grid-template-columns: 1fr;
   }
+
+  .grid > * {
+    min-width: 0;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
